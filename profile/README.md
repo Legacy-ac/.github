@@ -149,22 +149,6 @@ Se rodar numa máquina velha quase explodindo, provavelmente roda na sua também
 
 ---
 
-## Roadmap 2025
-
-### Plano mirabolante pronto
-
-* Repositório criado.
-* README minimamente apresentável.
-* Driver em C estruturado.
-* Callbacks essenciais implementados.
-* Comunicação Kernel ↔ User Mode.
-* Coletor de input para diferenciar eventos reais de eventos injetados.
-* Alpha fechado com comunidades parceiras.
-* Beta público com 3 meses gratuitos.
-* Expansão e monetização.
-
----
-
 ## Quem fez isso?
 
 Um cara que:
